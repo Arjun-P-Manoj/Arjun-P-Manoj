@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Arjun-P-Manoj&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi 👋, I'm Arjun P Manoj</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h3 align="center">A passionate frontend developer from India </h3>
 
 <h3 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Chakra+Petch&size=30&pause=1000&color=0FF714&multiline=false&random=false&width=435&lines=Frontend+Dev+exploring+AI+%26+ML!"/>
