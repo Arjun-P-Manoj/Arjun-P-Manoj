@@ -42,5 +42,5 @@
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,django,flutter,dart,python,c,mysql,git,github,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,django,flutter,dart,python,java,c,mysql,git,github,tailwind" />
 </div>
