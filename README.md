@@ -1,42 +1,46 @@
+[![](https://visitcount.itsvg.in/api?id=Arjun-P-Manoj&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 <h1 align="center">Hi 👋, I'm Arjun P Manoj</h1>
-<h3 align="center">A passionate frontend developer from Kerala, India</h3>
+<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
-<p align="left">🌱 I’m currently learning <strong>full-stack development</strong></p>
-<p align="left">📫 How to reach me: <strong>arjunpmanoj@gmail.com</strong></p>
-<p align="left">⚡ Fun fact: I love building clean UI and solving frontend puzzles</p>
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,github,vscode" />
-</p>
+<h3 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Chakra+Petch&size=30&pause=1000&color=0FF714&multiline=false&random=false&width=435&lines=Frontend+Dev+exploring+AI+%26+ML!"/>
+</h3>
 
 ---
 
-### 📊 GitHub Stats:
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-P-Manoj&show_icons=true&theme=radical" alt="Arjun's GitHub Stats" />
-</p>
+🎓 I'm a *Computer Science and Engineering* student from Kerala (KTU)  
+💻 Passionate about frontend development, debugging, and creative UI work  
+🚀 Currently learning **Next.js**, **Flutter**, **AI/ML**, and enhancing my **debugging** skills  
+🧠 Ask me about **React**, **MySQL**, **Tailwind CSS**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-P-Manoj&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-P-Manoj&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arjun-P-Manoj&theme=dark" height="150"/>
+</div>
+
+---
+
+<h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arjun-P-Manoj&theme=radical" alt="GitHub Streak" />
+  <a href="mailto:arjunpmanoj12@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="https://linkedin.com/in/arjun-p-manoj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/itsarju._" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/cce22cs019" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/arjunpmanoj1" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://dev.to/arjun_pmanoj_" target="_blank"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🔗 Connect with Me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arjunpmanoj" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arjunpmanoj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<h3 align="center">🛠️ Languages & Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,django,flutter,dart,python,c,mysql,git,github,tailwind" />
+</div>
