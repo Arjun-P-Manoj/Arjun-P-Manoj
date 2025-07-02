@@ -13,7 +13,7 @@
 
 🎓 I'm a *Computer Science and Engineering* student from Kerala (KTU)  
 💻 Passionate about frontend development, debugging, and creative UI work  
-🚀 Currently learning **Next.js**, **Flutter**, **AI/ML**, and enhancing my **Debugging** skills  
+🚀 Currently learning **Next.js** and enhancing my **Debugging** skills  
 🧠 Ask me about **React**, **MySQL**, **Tailwind CSS**
 
 </div>
