@@ -22,7 +22,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arjun-P-Manoj&show_icons=true&theme=dark" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=Arjun-P-Manoj&theme=dark" height="150"
+  <img src="https://streak-stats.demolab.com/?user=Arjun-P-Manoj&theme=dark" height="150"/>
 </div>
 
 --- 
