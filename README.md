@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer </h3>
 
 <h3 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Chakra+Petch&size=30&pause=1000&color=0FF714&multiline=false&random=false&width=435&lines=Frontend+Dev+exploring+AI+%26+ML!"/>
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Chakra+Petch&size=30&pause=1000&color=0FF714&multiline=false&random=false&width=435&lines=MERN STACK DEV+ NEXT JS+%26+ML!"/>
 </h3>
 
 ---
